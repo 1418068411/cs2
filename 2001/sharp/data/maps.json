@@ -1415,6 +1415,13 @@
     "nomination": false,
     "admin": false
   },
+  "ze_raintime2_stormwindkeep_v2": {
+    "certainTimes": [-1],
+    "price": 600,
+    "cooldown": 140,
+    "nomination": true,
+    "admin": false
+  },
   "ze_random_p": {
     "certainTimes": [-1],
     "price": 300,
